@@ -3,7 +3,6 @@ aiofiles
 aioshutil
 anytree==2.8.0
 apscheduler
-aria2p
 asyncio
 cloudscraper
 dnspython
@@ -27,11 +26,9 @@ pymongo
 pyrogram
 python-dotenv
 python-magic
-qbittorrent-api
 requests
 telegraph
 tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
