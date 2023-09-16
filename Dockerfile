@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM 1s3cur3d/rmltb:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
